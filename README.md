@@ -5,5 +5,5 @@ A simple way to create routes and middlewares for your php projects
 Para instalar este projeto via composer, execute o comando abaixo no seu terminal (certifique-se de ter o conposer.phar instalado).
 
 ```shell
-composer require henrideveloper/php-router-kit
+composer require thehenridev/php-router-kit
 ```
