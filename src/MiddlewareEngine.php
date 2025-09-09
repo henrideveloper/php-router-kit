@@ -1,6 +1,6 @@
 <?php
 
-namespace Henrideveloper\PHPRouterKit;
+namespace TheHenriDev\PHPRouterKit;
 
 class MiddlewareEngine
 {
