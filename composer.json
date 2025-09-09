@@ -1,8 +1,16 @@
 {
     "name": "henrideveloper/php-router-kit",
     "description": "A simple way to create routes and middlewares for your php projects",
+    "type": "library",
     "license": "MIT",
     "require": {
         "php": ">=8.2"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": {
+            "Henrideveloper\\PHPRouterKit\\": "src/"
+        }
     }
 }
